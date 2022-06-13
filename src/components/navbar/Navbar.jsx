@@ -31,7 +31,7 @@ const Navbar = () => {
         <div className="gpt3__navbar-menu_container scale-up-center">
           <div className="gpt3__navbar-menu_container-links">
             <p><a href="#home">Home</a></p>
-            <p><a href="#wgpt3">What we do</a></p>
+            <p><a href="#wgpt3">What is Trigan?</a></p>
             <p><a href="#possibility">Possibilities</a></p>
             <p><a href="#features">Roadmap</a></p>
             <p><a href="#blog">Articles</a></p>
